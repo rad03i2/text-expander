@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "snippets": [
+    {
+      "name": "greeting",
+      "text": "Hello {{name}},\n\nThanks for reaching out on {{date}}.",
+      "description": "Simple reusable greeting"
+    },
+    {
+      "name": "release-note",
+      "text": "Release {{version}} — {{summary}}",
+      "description": "Small release heading template"
+    }
+  ]
+}
